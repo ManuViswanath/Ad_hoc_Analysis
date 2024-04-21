@@ -29,7 +29,7 @@ Atliq Hardware seeks to enhance data-informed decision-making by leveraging SQL 
 
 ## Conclusion
 This project offers an opportunity to apply advanced SQL techniques to derive actionable insights, empowering Atliq Hardware to make strategic decisions and drive business growth.
-# 1.Request 1-Identify markets of "Atliq Exclusive" in APAC.
+### 1.Request 1-Identify markets of "Atliq Exclusive" in APAC.
 ![r1](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/19f31260-650e-484c-98db-17ef5c1b20a1)
 
 
