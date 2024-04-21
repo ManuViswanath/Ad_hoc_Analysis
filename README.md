@@ -46,5 +46,9 @@ This project offers an opportunity to apply advanced SQL techniques to derive ac
 #### [Request_7.csv](https://github.com/ManuViswanath/Ad_hoc_Analysis/files/15052446/Request_7.csv)
 #### 8.Request 8-Determine quarter with maximum total sold quantity in 2020.
 ![r8](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/5c35747d-4e6b-4963-beb8-e42f43d5fd79)
+#### 9.Request 9-Analyze channel-wise gross sales and contribution percentage in fiscal year 2021.
+![r9](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/bbef58ee-6414-4cd6-9361-ca4d60491ea9)
+#### 10.Request 10-Identify top 3 products per division with high total sold quantity in fiscal year 2021.
+![r10](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/afd06c09-84df-4287-b675-96b465fff603)
 
 
