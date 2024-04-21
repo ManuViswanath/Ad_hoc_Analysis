@@ -39,4 +39,10 @@ This project offers an opportunity to apply advanced SQL techniques to derive ac
 ![r4](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/ef7a1987-07d8-46c8-9e4c-8dd0a5fe6cd3)
 #### 5.Request 5-Determine products with highest and lowest manufacturing costs.
 ![r5](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/160488f1-af00-4e57-b0c2-2e8eb266206a)
+#### 6.Request 6-Identify top 5 customers with high pre-invoice discount in fiscal year 2021.
+![r6](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/874b8ced-024b-4379-931f-998ddcca5192)
+#### 7.Request 7-Report monthly gross sales for "Atliq Exclusive".
+![r7](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/b2f4e345-6702-444d-b042-430225cef817)
+[Request_7.csv](https://github.com/ManuViswanath/Ad_hoc_Analysis/files/15052446/Request_7.csv)
+
 
