@@ -35,5 +35,8 @@ This project offers an opportunity to apply advanced SQL techniques to derive ac
 ![r2](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/7884c1ac-9656-4a94-b636-1a2a3ce4c4ac)
 #### 3.Request 3-Report unique product counts per segment.
 ![r3](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/08b201e6-f0aa-49cf-8f47-8ee15661ba78)
-
+#### 4.Request 4- Analyze segment-wise unique product increase (2020 vs. 2021).
+![r4](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/ef7a1987-07d8-46c8-9e4c-8dd0a5fe6cd3)
+#### 5.Request 5-Determine products with highest and lowest manufacturing costs.
+![r5](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/160488f1-af00-4e57-b0c2-2e8eb266206a)
 
