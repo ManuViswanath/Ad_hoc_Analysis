@@ -44,5 +44,7 @@ This project offers an opportunity to apply advanced SQL techniques to derive ac
 #### 7.Request 7-Report monthly gross sales for "Atliq Exclusive".
 ![r7](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/b2f4e345-6702-444d-b042-430225cef817)
 #### [Request_7.csv](https://github.com/ManuViswanath/Ad_hoc_Analysis/files/15052446/Request_7.csv)
+#### 8.Request 8-Determine quarter with maximum total sold quantity in 2020.
+![r8](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/5c35747d-4e6b-4963-beb8-e42f43d5fd79)
 
 
