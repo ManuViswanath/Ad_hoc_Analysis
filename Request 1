@@ -5,3 +5,4 @@ SELECT market FROM dim_customer
 WHERE customer = 'Atliq Exclusive' AND region = 'APAC'
 GROUP BY market
 ORDER BY market ;
+![image](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/02a8fef3-106c-4846-b713-68f4b0b71c74)
