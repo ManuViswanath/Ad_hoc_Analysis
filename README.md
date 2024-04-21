@@ -43,6 +43,6 @@ This project offers an opportunity to apply advanced SQL techniques to derive ac
 ![r6](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/874b8ced-024b-4379-931f-998ddcca5192)
 #### 7.Request 7-Report monthly gross sales for "Atliq Exclusive".
 ![r7](https://github.com/ManuViswanath/Ad_hoc_Analysis/assets/70531153/b2f4e345-6702-444d-b042-430225cef817)
-[Request_7.csv](https://github.com/ManuViswanath/Ad_hoc_Analysis/files/15052446/Request_7.csv)
+#### [Request_7.csv](https://github.com/ManuViswanath/Ad_hoc_Analysis/files/15052446/Request_7.csv)
 
 
